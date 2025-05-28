@@ -1,0 +1,24 @@
+2025-05-27 04:13:01.731 [info] Extension host with pid 27237 started
+2025-05-27 04:13:01.741 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/b918bf6725e5d73894a7d7f72d952e9e/vscode.lock': Lock acquired.
+2025-05-27 04:13:01.870 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-27 04:13:01.871 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*'
+2025-05-27 04:13:02.291 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-05-27 04:13:02.373 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-05-27 04:13:02.373 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 04:13:02.374 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 04:13:04.610 [info] Eager extensions activated
+2025-05-27 04:13:04.610 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 04:13:04.610 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 04:13:05.876 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-05-27 04:13:07.131 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-05-27 04:13:08.261 [error] Error: Git model not found
+    at s.getAPI (/home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/extensions/git/dist/main.js:2:315714)
+    at new Mu (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2569:27165)
+    at Function.createProvider (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2569:27757)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Sw (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2569:33391)
+    at Xh (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2907:6419)
+    at Z4 (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2907:7524)
+2025-05-27 04:28:54.647 [info] Extension host terminating: received terminate message from renderer
+2025-05-27 04:28:54.653 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/b918bf6725e5d73894a7d7f72d952e9e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-05-27 04:28:54.702 [info] Extension host with pid 27237 exiting with code 0

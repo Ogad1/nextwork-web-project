@@ -1,0 +1,6 @@
+2025-05-27 04:12:54.370 [warning] /home/ec2-user/.ssh/config: ENOENT: no such file or directory, open '/home/ec2-user/.ssh/config'
+2025-05-27 04:12:54.371 [info] [Activation] Extension version: 0.110.0
+2025-05-27 04:12:56.456 [info] [Authentication] Creating hub for .com
+2025-05-27 04:12:57.603 [info] [Activation] Looking for git repository
+2025-05-27 04:12:57.603 [info] [Activation] Found 0 repositories during activation
+2025-05-27 04:12:57.603 [info] [Activation] Git repository found, initializing review manager and pr tree view.

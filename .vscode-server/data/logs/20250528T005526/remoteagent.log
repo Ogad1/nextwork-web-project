@@ -1,0 +1,12 @@
+2025-05-28 00:55:26.504 [info] 
+
+
+
+
+2025-05-28 00:55:26.519 [info] Extension host agent started.
+2025-05-28 00:55:26.657 [info] [<unknown>][006a9271][ExtensionHostConnection] New connection established.
+2025-05-28 00:55:26.659 [info] [<unknown>][3ad11af2][ManagementConnection] New connection established.
+2025-05-28 00:55:26.871 [info] [<unknown>][006a9271][ExtensionHostConnection] <65879> Launched Extension Host Process.
+2025-05-28 00:55:26.965 [info] ComputeTargetPlatform: linux-x64
+2025-05-28 00:55:28.383 [info] ComputeTargetPlatform: linux-x64
+2025-05-28 01:00:26.521 [info] New EH opened, aborting shutdown

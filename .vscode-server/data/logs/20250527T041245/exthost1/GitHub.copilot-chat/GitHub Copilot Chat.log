@@ -1,0 +1,5 @@
+2025-05-27 04:12:56.523 [info] Can't use the Electron fetcher in this environment.
+2025-05-27 04:12:56.523 [info] Using the Node fetch fetcher.
+2025-05-27 04:12:56.523 [info] Initializing Git extension service.
+2025-05-27 04:12:56.523 [info] Successfully activated the vscode.git extension.
+2025-05-27 04:12:56.523 [info] Enablement state of the vscode.git extension: false.

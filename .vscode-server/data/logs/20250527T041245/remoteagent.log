@@ -1,0 +1,109 @@
+2025-05-27 04:12:46.166 [info] 
+
+
+
+
+2025-05-27 04:12:46.179 [info] Extension host agent started.
+2025-05-27 04:12:46.241 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2025-05-27 04:12:46.308 [info] [<unknown>][c4142c57][ExtensionHostConnection] New connection established.
+2025-05-27 04:12:46.308 [info] [<unknown>][55138f25][ManagementConnection] New connection established.
+2025-05-27 04:12:46.318 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 04:12:46.322 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ec2-user/.vscode-server/extensions
+2025-05-27 04:12:46.458 [info] [<unknown>][c4142c57][ExtensionHostConnection] <27149> Launched Extension Host Process.
+2025-05-27 04:12:48.124 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 04:12:48.350 [info] Getting Manifest... github.vscode-pull-request-github
+2025-05-27 04:12:48.413 [info] Installing extension: github.vscode-pull-request-github {"installPreReleaseVersion":false,"donotIncludePackAndDependencies":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ec2-user/.vscode-server/extensions/extensions.json","external":"file:///home/ec2-user/.vscode-server/extensions/extensions.json","path":"/home/ec2-user/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-27 04:12:48.416 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2025-05-27 04:12:48.568 [info] Getting Manifest... github.copilot
+2025-05-27 04:12:48.578 [info] Installing extension: github.copilot {"installPreReleaseVersion":false,"donotIncludePackAndDependencies":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ec2-user/.vscode-server/extensions/extensions.json","external":"file:///home/ec2-user/.vscode-server/extensions/extensions.json","path":"/home/ec2-user/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-27 04:12:48.578 [info] Installing the extension without checking dependencies and pack github.copilot
+2025-05-27 04:12:48.643 [info] Getting Manifest... github.copilot-chat
+2025-05-27 04:12:48.677 [info] Installing extension: github.copilot-chat {"installPreReleaseVersion":false,"donotIncludePackAndDependencies":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"darwin-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ec2-user/.vscode-server/extensions/extensions.json","external":"file:///home/ec2-user/.vscode-server/extensions/extensions.json","path":"/home/ec2-user/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-27 04:12:48.677 [info] Installing the extension without checking dependencies and pack github.copilot-chat
+2025-05-27 04:12:52.660 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Internal Code: 0. Executed: true. Duration: 3223ms.
+2025-05-27 04:12:52.665 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 3159ms.
+2025-05-27 04:12:52.721 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 3270ms.
+2025-05-27 04:12:53.137 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0: github.vscode-pull-request-github
+2025-05-27 04:12:53.150 [info] Renamed to /home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0
+2025-05-27 04:12:53.187 [info] Extension installed successfully: github.vscode-pull-request-github file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2025-05-27 04:12:53.680 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2: github.copilot-chat
+2025-05-27 04:12:53.702 [info] Renamed to /home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2
+2025-05-27 04:12:53.766 [info] Extension installed successfully: github.copilot-chat file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2025-05-27 04:12:54.249 [info] Extracted extension to file:///home/ec2-user/.vscode-server/extensions/github.copilot-1.323.0: github.copilot
+2025-05-27 04:12:54.308 [info] Renamed to /home/ec2-user/.vscode-server/extensions/github.copilot-1.323.0
+2025-05-27 04:12:54.345 [info] Extension installed successfully: github.copilot file:///home/ec2-user/.vscode-server/extensions/extensions.json
+2025-05-27 04:12:57.711 [info] [<unknown>][55138f25][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-27 04:12:58.145 [info] [<unknown>][c4142c57][ExtensionHostConnection] <27149> Extension Host Process exited with code: 0, signal: null.
+2025-05-27 04:12:58.146 [info] Cancelling previous shutdown timeout
+2025-05-27 04:12:58.146 [info] Last EH closed, waiting before shutting down
+2025-05-27 04:13:00.064 [info] [<unknown>][f53ebc12][ManagementConnection] New connection established.
+2025-05-27 04:13:00.076 [info] [<unknown>][fd1d3db1][ExtensionHostConnection] New connection established.
+2025-05-27 04:13:00.083 [info] [<unknown>][fd1d3db1][ExtensionHostConnection] <27237> Launched Extension Host Process.
+2025-05-27 04:13:03.194 [error] CodeExpectedError: Could not find pty 8 on pty host
+    at I.W (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1839)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-27 04:13:03.196 [error] CodeExpectedError: Could not find pty 8 on pty host
+    at I.W (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateIcon (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1889)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-27 04:17:58.149 [info] New EH opened, aborting shutdown
+2025-05-27 04:28:54.644 [info] [<unknown>][f53ebc12][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-27 04:28:54.752 [info] [<unknown>][fd1d3db1][ExtensionHostConnection] <27237> Extension Host Process exited with code: 0, signal: null.
+2025-05-27 04:28:54.752 [info] Last EH closed, waiting before shutting down
+2025-05-27 04:29:06.206 [info] [<unknown>][c78af684][ManagementConnection] New connection established.
+2025-05-27 04:29:06.207 [info] [<unknown>][c97960d0][ExtensionHostConnection] New connection established.
+2025-05-27 04:29:06.213 [info] [<unknown>][c97960d0][ExtensionHostConnection] <27933> Launched Extension Host Process.
+2025-05-27 04:29:08.520 [error] CodeExpectedError: Could not find pty 12 on pty host
+    at I.W (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateTitle (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1839)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-27 04:29:08.523 [error] CodeExpectedError: Could not find pty 12 on pty host
+    at I.W (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateIcon (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1889)
+    at s.<computed> (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-27 04:29:20.899 [info] [<unknown>][c78af684][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-27 04:29:20.992 [info] [<unknown>][c97960d0][ExtensionHostConnection] <27933> Extension Host Process exited with code: 0, signal: null.
+2025-05-27 04:29:20.992 [info] Cancelling previous shutdown timeout
+2025-05-27 04:29:20.992 [info] Last EH closed, waiting before shutting down
+2025-05-27 04:34:20.995 [info] Last EH closed, shutting down

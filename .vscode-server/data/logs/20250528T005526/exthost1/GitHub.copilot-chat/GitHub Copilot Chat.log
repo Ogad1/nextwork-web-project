@@ -1,0 +1,87 @@
+2025-05-28 00:55:32.275 [info] Can't use the Electron fetcher in this environment.
+2025-05-28 00:55:32.275 [info] Using the Node fetch fetcher.
+2025-05-28 00:55:32.275 [info] Initializing Git extension service.
+2025-05-28 00:55:32.275 [info] Successfully activated the vscode.git extension.
+2025-05-28 00:55:32.275 [info] Enablement state of the vscode.git extension: false.
+2025-05-28 00:55:33.148 [info] Logged in as Ogad1
+2025-05-28 00:55:33.338 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 00:55:33.341 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at lE.waitForChatEnabled (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:441:18705)
+    at lE.run (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:441:18589)
+    at D4.askToUpgradeAuthPermissions (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:441:17960): Failed to get copilot token
+2025-05-28 00:55:33.341 [error] GitHub Copilot could not connect to server. Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as Ogad1."
+2025-05-28 00:55:33.341 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 00:55:33.341 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-28 00:55:33.341 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 00:55:33.341 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at t (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3106)
+    at YL._registerEmbeddings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3605)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at Hb.waitForActivationBlockers (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:2184)
+    at /home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:2382:7090
+    at tln (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:2382:6903)
+    at Nb.n (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/workbench/api/node/extensionHostProcess.js:119:13382)
+    at Nb.m (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/workbench/api/node/extensionHostProcess.js:119:13345)
+    at Nb.l (file:///home/ec2-user/.vscode-server/cli/servers/Stable-848b80aeb52026648a8ff9f7c45a9b0a80641e2e/server/out/vs/workbench/api/node/extensionHostProcess.js:119:12801)
+2025-05-28 00:55:33.341 [info] activationBlocker from 'languageModelAccess' took for 465ms
+2025-05-28 01:10:33.550 [info] Logged in as Ogad1
+2025-05-28 01:10:33.746 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 01:10:33.746 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 01:10:33.746 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-28 01:33:14.282 [info] Logged in as Ogad1
+2025-05-28 01:33:14.424 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 01:33:14.425 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 01:33:14.425 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-28 01:56:14.248 [info] Logged in as Ogad1
+2025-05-28 01:56:14.402 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 01:56:14.403 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 01:56:14.403 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-28 02:19:14.213 [info] Logged in as Ogad1
+2025-05-28 02:19:14.389 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 02:19:14.390 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 02:19:14.390 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
