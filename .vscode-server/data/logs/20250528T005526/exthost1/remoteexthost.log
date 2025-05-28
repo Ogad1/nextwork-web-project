@@ -17,3 +17,4 @@
     at Sw (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2569:33391)
     at Xh (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2907:6419)
     at Z4 (/home/ec2-user/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0/dist/extension.js:2907:7524)
+2025-05-28 03:08:29.889 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'

@@ -85,3 +85,25 @@
     at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
     at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
     at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-28 02:42:14.194 [info] Logged in as Ogad1
+2025-05-28 02:42:14.355 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 02:42:14.357 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 02:42:14.357 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)
+2025-05-28 03:05:14.165 [info] Logged in as Ogad1
+2025-05-28 03:05:14.342 [warning] Invalid copilot token: missing token: 403 
+2025-05-28 03:05:14.342 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-05-28 03:05:14.342 [error] Error: No access to GitHub Copilot found. You are currently logged in as Ogad1.
+    at d6._authShowWarnings (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:48783)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at d6.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:481:47813)
+    at C5.getCopilotToken (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:423:3583)
+    at YL._getAuthSession (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:3643)
+    at Object.n [as task] (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:478:730)
+    at mp._processQueue (/home/ec2-user/.vscode-server/extensions/github.copilot-chat-0.27.2/dist/extension.js:471:15854)

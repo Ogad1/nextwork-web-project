@@ -1,2 +1,83 @@
 2025-05-28 00:55:32.367 [info] [certificates] Removed 3 expired certificates
 2025-05-28 00:55:33.078 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:34.622 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:34.943 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:35.147 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:35.306 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:35.504 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:35.661 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:35.836 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:35.973 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:36.127 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:36.360 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:36.551 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:36.756 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:36.873 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:37.146 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:37.383 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:37.604 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:37.754 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:37.864 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:38.905 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:39.101 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:39.294 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:39.344 [error] [default] Error sending telemetry FetchError: The operation was aborted
+    at fetch (/home/ec2-user/.vscode-server/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/ec2-user/.vscode-server/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at UB.fetch (/home/ec2-user/.vscode-server/extensions/github.copilot-1.323.0/lib/src/network/helix.ts:94:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ABORT_ERR',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-05-28 03:08:39.480 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:39.691 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:40.546 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:40.889 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:41.080 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:41.336 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:41.720 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:42.292 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:42.912 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:43.406 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:43.864 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:44.204 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:44.984 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:45.124 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:46.316 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:46.754 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:46.945 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:47.442 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:49.002 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:49.158 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:49.628 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:49.807 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:50.045 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:50.212 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:50.409 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:50.559 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:51.499 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:51.819 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:52.022 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:52.730 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:52.942 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:53.090 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:53.309 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:53.575 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:54.575 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:54.997 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:55.315 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:55.560 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:55.764 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:56.023 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:56.201 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:56.433 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:08:58.619 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:09:01.390 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:09:03.884 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:09:04.327 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:09:05.643 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:09:05.773 [info] [auth] Invalid copilot token: missing token: 403 
+2025-05-28 03:09:26.836 [info] [auth] Invalid copilot token: missing token: 403 
